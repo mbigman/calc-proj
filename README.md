@@ -1,4 +1,4 @@
-# calc-proj
+# Calculator Project
 Your project is to create a **Command Line Calculator**
 
 ## Requirements
