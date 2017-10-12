@@ -2,6 +2,7 @@
 Your project is to create a **Command Line Calculator**
 
 ## Requirements
+* You **must** show me a plan before you get started!
 * Your program should present a list of calculations that your program can do
 * You need at least five operations
     * Such as: addition, subtraction, division, multiplication
@@ -16,7 +17,7 @@ Your project is to create a **Command Line Calculator**
 
 ## Groups:
 * Briana + Natalie
-* Gaby, Came, Megan 
+* Gaby, Cami, Megan 
 
 ## A few reminders:
 * Keep in mind the MVP (minimum viable product) 
