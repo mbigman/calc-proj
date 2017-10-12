@@ -1,7 +1,7 @@
 # calc-proj
 Your project is to create a **Command Line Calculator**
 
-##Requirements
+## Requirements
 * Your program should present a list of calculations that your program can do
 * You need at least five operations
     * Such as: addition, subtraction, division, multiplication
@@ -14,11 +14,11 @@ Your project is to create a **Command Line Calculator**
 * You may create alternative operations — feel free to get creative 
     * e.g. pizza calculator that takes in number of people and hunger level
 
-##Groups:
+## Groups:
 * Briana + Natalie
 * Gaby, Came, Megan 
 
-##A few reminders:
+## A few reminders:
 * Keep in mind the MVP (minimum viable product) 
     * At every stage of your program, I expect it to be able to function
     * Do NOT divide up all of the work and just expect it to all work at the end
