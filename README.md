@@ -36,3 +36,5 @@ Your project is to create a **Command Line Calculator**
 + What math problems do you want to solve? Just the basics? What about square roots?
 
 + Do you want a basic calculator or do you want it themed? (Students in the past have done a tip calculator to make eating out easier, or a average income generator, feel free to get creative!)
+
+<img src="https://after-school-assets.s3.amazonaws.com/calculator.gif" width="500px">
